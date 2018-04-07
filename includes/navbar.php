@@ -14,7 +14,7 @@
             <a href="shop.php?category=folding">Folding Bikes</a>
             <a href="shop.php?category=electric">Electric Bikes</a>
             <a href="shop.php?category=kids">Kids Bikes</a>
-            <li><a href="login.html">🔑Login/Signup</a></li>
+            <li><a href="customerLogin.php">🔑Login/Signup</a></li>
             <li><a href="/eshop">🏠Home</a></li>
         </div>
     </li>
